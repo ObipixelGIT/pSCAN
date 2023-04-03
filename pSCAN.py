@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+# Author : Dimitrios Zacharopoulos
+# All copyrights to Obipixel Ltd
+# 20 March 2022
+
+#!/usr/bin/env python3
+
 import os
 import socket
 from tqdm import tqdm
